@@ -1,4 +1,4 @@
-# Get WebCanera number
+# Get WebCanera Number
 
 ## 使い方
 1. `get_camera_number.bat`をダブルクリック
