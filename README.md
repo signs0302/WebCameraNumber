@@ -8,8 +8,8 @@
 5. Webカメラを選択し，OKをクリック
 6. Webカメラの映像が表示されるので，そのWebカメラで良ければ｀q｀キーを入力して終了
 
-## 作者
-@signs0302
+## GitHubレポジトリ
+https://github.com/signs0302/WebCameraNumber
 
 ## LICENCE
 MIT
